@@ -4,10 +4,13 @@ This project is a basic MERN authentication and infrastructure skeleton that use
 In other words, this project provides a secure and flexible way to authenticate users in a web application using token-based authentication with JWTs and MongoDB.
 
 ## How to Use
-Install dependencies by running 'npm install' in the console.
-Create a .env file and insert your 'DATABASE_URL' and 'SECRET'.
-Run the backend by running 'npm run server'.
-Run a Vite dev build for the frontend by running 'npm run client'.
+Install dependencies by running `npm install` in the console.
+
+Create a `.env` file and insert your `DATABASE_URL` and `SECRET`.
+
+Run the backend by running `npm run server`.
+
+Run a Vite dev build for the frontend by running `npm run client`.
 
 ## Technologies Used
 - React
